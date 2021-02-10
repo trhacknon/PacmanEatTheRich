@@ -1,0 +1,138 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     3172 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\jackt\Desktop\pacmanrepo\eat-the-rich_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.454 seconds
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.168200 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.840200 ms
+Level 0 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2480.
+Total: 1.073100 ms (FindLiveObjects: 0.186600 ms CreateObjectMapping: 0.046700 ms MarkObjects: 0.795400 ms  DeleteObjects: 0.043500 ms)
+
+Treshold for High Score: 99999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Treshold for High Score: 99999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.720000 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 502.
+Total: 0.381800 ms (FindLiveObjects: 0.059300 ms CreateObjectMapping: 0.021700 ms MarkObjects: 0.266900 ms  DeleteObjects: 0.033200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.489000 ms
+Level 0 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2480.
+Total: 0.725200 ms (FindLiveObjects: 0.147900 ms CreateObjectMapping: 0.036000 ms MarkObjects: 0.517800 ms  DeleteObjects: 0.022800 ms)
+
+PauseCanvas enabled: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PauseCanvas enabled: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Treshold for High Score: 99999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Treshold for High Score: 99999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PauseCanvas enabled: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PauseCanvas enabled: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.524600 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 502.
+Total: 0.365700 ms (FindLiveObjects: 0.044500 ms CreateObjectMapping: 0.017200 ms MarkObjects: 0.267600 ms  DeleteObjects: 0.035500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.186900 ms
+Updating GUIText: scorelist count=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.564400 ms (FindLiveObjects: 0.043300 ms CreateObjectMapping: 0.019500 ms MarkObjects: 0.364300 ms  DeleteObjects: 0.135900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.417600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 502.
+Total: 0.336000 ms (FindLiveObjects: 0.029200 ms CreateObjectMapping: 0.015300 ms MarkObjects: 0.284100 ms  DeleteObjects: 0.006700 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 45dc -> priority: 1 
+  Thread -> id: 21d8 -> priority: 1 

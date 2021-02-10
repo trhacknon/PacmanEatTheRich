@@ -1,0 +1,74 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     3172 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\jackt\Downloads\PAC-MAN_GAME_IN_UNITY_ENGINE_WITH_SOURCE_CODE\Pacman UNITY\Pacman\runapp_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.410 seconds
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.254500 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.312900 ms
+Level 0 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2471.
+Total: 1.178800 ms (FindLiveObjects: 0.186900 ms CreateObjectMapping: 0.036800 ms MarkObjects: 0.913400 ms  DeleteObjects: 0.040600 ms)
+
+Treshold for High Score: 99999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Treshold for High Score: 99999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.784700 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 487.
+Total: 0.418100 ms (FindLiveObjects: 0.058600 ms CreateObjectMapping: 0.021100 ms MarkObjects: 0.279200 ms  DeleteObjects: 0.058200 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4d8 -> priority: 1 
+  Thread -> id: 1a20 -> priority: 1 
