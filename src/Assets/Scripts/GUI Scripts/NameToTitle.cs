@@ -40,7 +40,7 @@ public class NameToTitle : MonoBehaviour {
 
 	void OnMouseExit()
 	{
-		title.text = "Pac-Man Clone";
+		title.text = "Eat the Rich";
 		title.color = Color.white;
 	}
 }
