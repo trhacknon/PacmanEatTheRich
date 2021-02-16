@@ -13,7 +13,7 @@ public class NameToTitle : MonoBehaviour {
 		{
 		case "Pac-Man":
 			title.color = Color.yellow;
-			title.text = "Robinhood";
+			title.text = "Stash";
 			break;
 
 		case "Blinky":
